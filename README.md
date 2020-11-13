@@ -77,14 +77,14 @@ WiFi Connection status :
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(114).png" width="600" align="center">
+  <img src="IMG/Screenshot%204.png" width="600" align="center">
 </p
 
 Initial **Publish** and **Subscribe** status:
   
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(115).png" width="600" align="center">
+  <img src="IMG/Screenshot%205.png" width="600" align="center">
 </p 
  
 Subscribed message on ***ESP8266*** form ***AWS IoT Core*** :
