@@ -11,7 +11,7 @@ AWS IoT can provide support for your compatible devices to facilitate the develo
 ## Concept
 
 <p align="center">
-  <img src="IMG/CONCEPT.png" width="290" align="center">
+  <img src="IMG/CONCEPT.png" width="400" align="center">
 </p
   
 <p><br>
@@ -53,7 +53,7 @@ Here we have some points to note:
    - Open **global.h** and provide your wifi router's `ssid` and `password` :
     
 <p align="center">
-  <img src="IMG/Screenshot%20(116).png" width="540" align="center">
+  <img src="IMG/Screenshot%20(116).png" width="700" align="center">
 </p  
   
 <p><br> 
@@ -77,24 +77,24 @@ WiFi Connection status :
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(114).png" width="240" align="center">
+  <img src="IMG/Screenshot%20(114).png" width="600" align="center">
 </p
 
 Initial **Publish** and **Subscribe** status:
   
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(115).png" width="240" align="center">
+  <img src="IMG/Screenshot%20(115).png" width="600" align="center">
 </p 
  
 Subscribed message on ***ESP8266*** form ***AWS IoT Core*** :
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(112).png" width="240" align="center">
+  <img src="IMG/Screenshot%20(112).png" width="600" align="center">
 </p   
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(85).png" width="240" align="center">
+  <img src="IMG/Screenshot%20(85).png" width="600" align="center">
 </p    
