@@ -71,7 +71,7 @@ This library was tested with the NodeMCU V1.0 & ESP8266-12E board. It should als
 ESP8266 core version that I have tested is `2.4.2`. 
 
 ## Working & Testing 
-Demonstration of `publish` and `subscribe` between **ESP8266** and **Cayenne** dashboard described in the documentation from ***page No:10 to 13***. 
+Demonstration of `publish` and `subscribe` between **ESP8266** and **AWS IoT Core** dashboard described in the documentation from ***page No:10 to 13***. 
 
 WiFi Connection status :
 
