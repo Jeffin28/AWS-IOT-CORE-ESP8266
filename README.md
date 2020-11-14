@@ -26,7 +26,7 @@ Here we have some points to note:
 > - You must need an **AWS IoT Core** console/account for the demonstation.Details on below section (**Steps**). 
 > - This concept works on ESP8266 Arduino Core v2.4.2 and v2.4.0.
 > - Communications are secured by TLS version 1.2. Arduino IDE & ESP8266 Suports TLS V1.2.
-> - **AWS IoT Core** supports `MQTT` and `MQTT over WSS` protocols. We are using ***MQTT over WSS*** method with ***sigv4*** authentication.
+> - **AWS IoT Core** supports `MQTT` and `MQTT over WSS` protocols. We are using ***MQTT over WSS*** method with ***sigv4*** authentication and port **443**.
 
 
 ## Software
