@@ -96,5 +96,10 @@ Subscribed message on ***ESP8266*** form ***AWS IoT Core*** :
 
 <p><br>
 <p align="center">
-  <img src="IMG/Screenshot%20(85).png" width="240" align="center">
+  <img src="IMG/Screenshot%20(142).png" width="600" align="center">
 </p    
+
+<p><br>
+<p align="center">
+  <img src="IMG/Screenshot%20(85).png" width="240" align="center">
+</p 
